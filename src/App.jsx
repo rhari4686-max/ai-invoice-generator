@@ -14,7 +14,7 @@ import Dashboard from "./pages/Dashboard/Dashboard";
 import AllInvoices from "./pages/Invoices/AllInvoices";
 import CreateInvoice from "./pages/Invoices/CreateInvoice";
 import InvoiceDetails from "./pages/Invoices/InvoiceDetails";
-import ProfilePage from "./pages/profile/profilePage";
+import ProfilePage from "./pages/profile/ProfilePage";
 import ProtectedRoute from "./components/auth/ProtectedRoute";
 import DashboardLayout from "./components/layout/DashboardLayout";
 
